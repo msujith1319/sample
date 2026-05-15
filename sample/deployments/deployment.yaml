@@ -9,7 +9,7 @@ spec:
         elements:
           - env: dev
             namespace: dev
-            valuesFile: dev-values.yaml
+            valuesFile: values.yaml
 
   template:
     metadata:
